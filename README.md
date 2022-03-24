@@ -1,1 +1,1 @@
-A basic flask jsonapi
+A simple flask jsonapi
